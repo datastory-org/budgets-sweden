@@ -9,6 +9,9 @@ jupyterlab = "*"
 matplotlib = "*"
 openpyxl = "*"
 lxml = "*"
+bs4 = "*"
+beautifulsoup4 = "*"
+html5lib = "*"
 
 [dev-packages]
 

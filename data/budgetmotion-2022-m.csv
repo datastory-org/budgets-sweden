@@ -1,85 +1,85 @@
-Anslag,Namn,Avvikelse från regeringen,Utgiftsområde
-2:2,Riksdagens förvaltningsanslag,10000000,1
-4:1,Regeringskansliet m.m.,65000000,1
-6:1,Allmänna val och demokrati,31000000,1
-1:7,Konjunkturinstitutet,10000000,2
-1:1,Skatteverket,10000000,3
-1:2,Tullverket,80000000,3
-1:1,Polismyndigheten,863000000,4
-1:2,Säkerhetspolisen,37000000,4
-1:3,Åklagarmyndigheten,76000000,4
-1:6,Kriminalvården,645000000,4
-1:10,Ersättning för skador på grund av brott,40000000,4
-99:1,Statligt stöd till kommunala ordningsvakter och lokala trygghetsåtgärder,500000000,4
-1:4,Forskning och teknikutveckling,20000000,6
-1:8,Försvarets radioanstalt,30000000,6
-1:9,Totalförsvarets forskningsinstitut,30000000,6
-2:1,Kustbevakningen,45000000,6
-1:1,Biståndsverksamhet,-13010000000,7
-1:1,Migrationsverket,105000000,8
-1:3,Tandvårds- och läkemedelsförmånsverket,5000000,9
-1:6,Bidrag till folkhälsa och sjukvård,80000000,9
-2:4,Insatser mot hiv/aids och andra smittsamma sjukdomar,75000000,9
-4:7,Bidrag till utveckling av socialt arbete m.m.,150000000,9
-1:1,Sjukpenning och rehabilitering m.m.,-2722000000,10
-1:2,Aktivitets- och sjukersättningar m.m.,-2387000000,10
-2:1,Försäkringskassan,-310000000,10
-1:1,Garantipension till ålderspension,0,11
-1:4,Äldreförsörjningsstöd,0,11
-1:2,Föräldraförsäkring,-3194000000,12
-1:3,Underhållsstöd,-35000000,12
-1:8,Bostadsbidrag,0,12
-3:1,Särskilda jämställdhetsåtgärder,10000000,13
-4:2,Delegationen mot segregation,-9000000,13
-1:2,Bidrag till arbetslöshetsersättning och aktivitetsstöd,-4524000000,14
-1:3,Kostnader för arbetsmarknadspolitiska program och insatser,-2069000000,14
-1:4,Lönebidrag och Samhall m.m.,826000000,14
-1:13,"Nystartsjobb, etableringsjobb och stöd för yrkesintroduktionsanställningar",1628000000,14
-1:14,Etableringsersättning till vissa nyanlända invandrare,45000000,14
-2:1,Arbetsmiljöverket,20000000,14
-2:5,Myndigheten för arbetsmiljökunskap,-20000000,14
-1:8,Centrala studiestödsnämnden,5000000,15
-99:1,Betald polisutbildning,0,15
-1:1,Statens skolverk,-71000000,16
-1:2,Statens skolinspektion,60000000,16
-1:5,Utveckling av skolväsendet och annan pedagogisk verksamhet,20000000,16
-2:1,Universitetskanslersämbetet,10000000,16
-2:64,Särskilda utgifter inom universitet och högskolor,20000000,16
-3:1,Vetenskapsrådet: Forskning och forskningsinformation,100000000,16
-1:2,"Bidrag till allmän kulturverksamhet, utveckling samt internationellt kulturutbyte och samarbete",190000000,17
-8:1,Centrala museer: Myndigheter,-67000000,17
-13:3,Stöd till friluftsorganisationer,15000000,17
-14:1,Bidrag till folkbildningen,-138000000,17
-1:4,Boverket,-20000000,18
-1:6,Lantmäteriet,20000000,18
-1:7,Energieffektivisering av flerbostadshus,-1256000000,18
-1:8,Investeringsstöd för anordnande av hyresbostäder och bostäder för studerande,0,18
-1:1,Regionala utvecklingsåtgärder,75000000,19
-1:1,Naturvårdsverket,10000000,20
-1:3,Åtgärder för värdefull natur,280000000,20
-1:11,Åtgärder för havs- och vattenmiljö,220000000,20
-1:12,Insatser för internationella klimatinvesteringar,60000000,20
-1:14,Skydd av värdefull natur,-2005000000,20
-1:16,Klimatinvesteringar,-800000000,20
-1:19,Industriklivet,500000000,20
-1:21,Driftstöd för bio-CCS,10000000,20
-99:1,Utbyggd laddinfrastruktur,1000000000,20
-99:2,Grönt bränslestöd,800000000,20
-1:4,Energiforskning,250000000,21
-1:5,Infrastruktur för elektrifierade transporter,-600000000,21
-1:7,Energiteknik,-500000000,21
-1:2,Vidmakthållande av statens transportinfrastruktur,525000000,22
-1:6,Ersättning avseende icke statliga flygplatser,59000000,22
-1:18,Bidrag för upprätthållande av kollektivtrafik,500000000,22
-1:1,Skogsstyrelsen,40000000,23
-1:2,Insatser för skogsbruket,-360000000,23
-1:7,Ersättningar för viltskador m.m.,25000000,23
-1:9,Bekämpning av växtskadegörare,5000000,23
-1:14,Livsmedelsverket,5000000,23
-1:15,Konkurrenskraftig livsmedelssektor,70000000,23
-1:17,Åtgärder för landsbygdens miljö och struktur,0,23
-1:26,Nedsättning av slakteriavgifter,70000000,23
-1:4,Tillväxtverket,10000000,24
-1:5,Näringslivsutveckling,-100000000,24
-1:11,Bolagsverket,5000000,24
-1:1,Kommunalekonomisk utjämning,5649000000,25
+Anslag,Namn,2022,2023,2024,Utgiftsområde
+2:2,Riksdagens förvaltningsanslag,10000000,10000000,10000000,1
+4:1,Regeringskansliet m.m.,65000000,35000000,0,1
+6:1,Allmänna val och demokrati,31000000,31000000,31000000,1
+1:7,Konjunkturinstitutet,10000000,10000000,10000000,2
+1:1,Skatteverket,10000000,500000000,0,3
+1:2,Tullverket,80000000,215000000,300000000,3
+1:1,Polismyndigheten,863000000,1058000000,2858000000,4
+1:2,Säkerhetspolisen,37000000,37000000,37000000,4
+1:3,Åklagarmyndigheten,76000000,154000000,218000000,4
+1:6,Kriminalvården,645000000,795000000,1595000000,4
+1:10,Ersättning för skador på grund av brott,40000000,80000000,80000000,4
+99:1,Statligt stöd till kommunala ordningsvakter och lokala trygghetsåtgärder,500000000,500000000,500000000,4
+1:4,Forskning och teknikutveckling,20000000,20000000,20000000,6
+1:8,Försvarets radioanstalt,30000000,30000000,30000000,6
+1:9,Totalförsvarets forskningsinstitut,30000000,30000000,30000000,6
+2:1,Kustbevakningen,45000000,45000000,45000000,6
+1:1,Biståndsverksamhet,-13010000000,-14640000000,-16570000000,7
+1:1,Migrationsverket,105000000,330000000,430000000,8
+1:3,Tandvårds- och läkemedelsförmånsverket,5000000,0,0,9
+1:6,Bidrag till folkhälsa och sjukvård,80000000,80000000,80000000,9
+2:4,Insatser mot hiv/aids och andra smittsamma sjukdomar,75000000,75000000,75000000,9
+4:7,Bidrag till utveckling av socialt arbete m.m.,150000000,150000000,150000000,9
+1:1,Sjukpenning och rehabilitering m.m.,-2722000000,-8487000000,-8477000000,10
+1:2,Aktivitets- och sjukersättningar m.m.,-2387000000,-3511000000,-3511000000,10
+2:1,Försäkringskassan,-310000000,-310000000,-310000000,10
+1:1,Garantipension till ålderspension,0,-800000000,-800000000,11
+1:4,Äldreförsörjningsstöd,0,300000000,300000000,11
+1:2,Föräldraförsäkring,-3194000000,-3810000000,-3888000000,12
+1:3,Underhållsstöd,-35000000,-70000000,-70000000,12
+1:8,Bostadsbidrag,0,100000000,100000000,12
+3:1,Särskilda jämställdhetsåtgärder,10000000,10000000,10000000,13
+4:2,Delegationen mot segregation,-9000000,-18000000,-19000000,13
+1:2,Bidrag till arbetslöshetsersättning och aktivitetsstöd,-4524000000,-3805000000,-3572000000,14
+1:3,Kostnader för arbetsmarknadspolitiska program och insatser,-2069000000,-3828000000,-3049000000,14
+1:4,Lönebidrag och Samhall m.m.,826000000,1542000000,1588000000,14
+1:13,"Nystartsjobb, etableringsjobb och stöd för yrkesintroduktionsanställningar",1628000000,5366000000,3735000000,14
+1:14,Etableringsersättning till vissa nyanlända invandrare,45000000,-78000000,-49000000,14
+2:1,Arbetsmiljöverket,20000000,40000000,40000000,14
+2:5,Myndigheten för arbetsmiljökunskap,-20000000,-40000000,-40000000,14
+1:8,Centrala studiestödsnämnden,5000000,0,0,15
+99:1,Betald polisutbildning,0,50000000,100000000,15
+1:1,Statens skolverk,-71000000,-154000000,-183000000,16
+1:2,Statens skolinspektion,60000000,60000000,60000000,16
+1:5,Utveckling av skolväsendet och annan pedagogisk verksamhet,20000000,20000000,20000000,16
+2:1,Universitetskanslersämbetet,10000000,0,0,16
+2:64,Särskilda utgifter inom universitet och högskolor,20000000,20000000,20000000,16
+3:1,Vetenskapsrådet: Forskning och forskningsinformation,100000000,100000000,100000000,16
+1:2,"Bidrag till allmän kulturverksamhet, utveckling samt internationellt kulturutbyte och samarbete",190000000,290000000,290000000,17
+8:1,Centrala museer: Myndigheter,-67000000,-90000000,-90000000,17
+13:3,Stöd till friluftsorganisationer,15000000,15000000,15000000,17
+14:1,Bidrag till folkbildningen,-138000000,0,0,17
+1:4,Boverket,-20000000,-20000000,-20000000,18
+1:6,Lantmäteriet,20000000,20000000,20000000,18
+1:7,Energieffektivisering av flerbostadshus,-1256000000,-80000000,-1130000000,18
+1:8,Investeringsstöd för anordnande av hyresbostäder och bostäder för studerande,0,0,-4650000000,18
+1:1,Regionala utvecklingsåtgärder,75000000,75000000,150000000,19
+1:1,Naturvårdsverket,10000000,10000000,10000000,20
+1:3,Åtgärder för värdefull natur,280000000,380000000,400000000,20
+1:11,Åtgärder för havs- och vattenmiljö,220000000,220000000,220000000,20
+1:12,Insatser för internationella klimatinvesteringar,60000000,60000000,60000000,20
+1:14,Skydd av värdefull natur,-2005000000,-2005000000,-2005000000,20
+1:16,Klimatinvesteringar,-800000000,-1955000000,-3155000000,20
+1:19,Industriklivet,500000000,500000000,500000000,20
+1:21,Driftstöd för bio-CCS,10000000,10000000,10000000,20
+99:1,Utbyggd laddinfrastruktur,1000000000,1000000000,1000000000,20
+99:2,Grönt bränslestöd,800000000,900000000,900000000,20
+1:4,Energiforskning,250000000,250000000,250000000,21
+1:5,Infrastruktur för elektrifierade transporter,-600000000,0,0,21
+1:7,Energiteknik,-500000000,-700000000,-700000000,21
+1:2,Vidmakthållande av statens transportinfrastruktur,525000000,175000000,175000000,22
+1:6,Ersättning avseende icke statliga flygplatser,59000000,0,0,22
+1:18,Bidrag för upprätthållande av kollektivtrafik,500000000,0,0,22
+1:1,Skogsstyrelsen,40000000,40000000,40000000,23
+1:2,Insatser för skogsbruket,-360000000,-360000000,-360000000,23
+1:7,Ersättningar för viltskador m.m.,25000000,25000000,25000000,23
+1:9,Bekämpning av växtskadegörare,5000000,5000000,5000000,23
+1:14,Livsmedelsverket,5000000,5000000,5000000,23
+1:15,Konkurrenskraftig livsmedelssektor,70000000,70000000,70000000,23
+1:17,Åtgärder för landsbygdens miljö och struktur,0,1000000000,1000000000,23
+1:26,Nedsättning av slakteriavgifter,70000000,70000000,70000000,23
+1:4,Tillväxtverket,10000000,10000000,10000000,24
+1:5,Näringslivsutveckling,-100000000,-100000000,-100000000,24
+1:11,Bolagsverket,5000000,5000000,5000000,24
+1:1,Kommunalekonomisk utjämning,5649000000,8060000000,10691000000,25
