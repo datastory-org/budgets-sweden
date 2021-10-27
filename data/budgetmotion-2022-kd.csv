@@ -20,14 +20,6 @@ Anslag,Namn,2022,Utgiftsområde
 8:2,"Myndigheten för press, radio och tv",0,1
 9:1,Svenska institutet för europapolitiska studier samt EU-information,0,1
 1:1,Statskontoret,0,2
-1:2,Kammarkollegiet,0,2
-1:3,Finansinspektionens avgifter till EU:s tillsynsmyndigheter,0,2
-1:4,Arbetsgivarpolitiska frågor,0,2
-1:5,Statliga tjänstepensioner m.m.,0,2
-1:6,Finanspolitiska rådet,0,2
-1:7,Konjunkturinstitutet,0,2
-1:8,Ekonomistyrningsverket,147000000,2
-1:9,Statistiska centralbyrån,0,2
 1:10,Bidragsfastigheter,-50000000,2
 1:11,Finansinspektionen,20000000,2
 1:12,Riksgäldskontoret,0,2
@@ -36,18 +28,18 @@ Anslag,Namn,2022,Utgiftsområde
 1:15,Statens servicecenter,20000000,2
 1:16,Finansmarknadsforskning,0,2
 1:17,Upphandlingsmyndigheten,0,2
+1:2,Kammarkollegiet,0,2
+1:3,Finansinspektionens avgifter till EU:s tillsynsmyndigheter,0,2
+1:4,Arbetsgivarpolitiska frågor,0,2
+1:5,Statliga tjänstepensioner m.m.,0,2
+1:6,Finanspolitiska rådet,0,2
+1:7,Konjunkturinstitutet,0,2
+1:8,Ekonomistyrningsverket,147000000,2
+1:9,Statistiska centralbyrån,0,2
 1:1,Skatteverket,0,3
 1:2,Tullverket,100000000,3
 1:3,Kronofogdemyndigheten,30000000,3
 1:1,Polismyndigheten,1315000000,4
-1:2,Säkerhetspolisen,17000000,4
-1:3,Åklagarmyndigheten,0,4
-1:4,Ekobrottsmyndigheten,0,4
-1:5,Sveriges Domstolar,100000000,4
-1:6,Kriminalvården,161000000,4
-1:7,Brottsförebyggande rådet,0,4
-1:8,Rättsmedicinalverket,0,4
-1:9,Brottsoffermyndigheten,0,4
 1:10,Ersättning för skador på grund av brott,0,4
 1:11,Rättsliga biträden m.m.,0,4
 1:12,Kostnader för vissa skaderegleringar m.m.,0,4
@@ -56,7 +48,29 @@ Anslag,Namn,2022,Utgiftsområde
 1:15,Säkerhets- och integritetsskyddsnämnden,0,4
 1:16,Domarnämnden,0,4
 1:17,"Från EU-budgeten finansierade insatser avseende EU:s inre säkerhet, gränsförvaltning och visering",0,4
+1:2,Säkerhetspolisen,17000000,4
+1:3,Åklagarmyndigheten,0,4
+1:4,Ekobrottsmyndigheten,0,4
+1:5,Sveriges Domstolar,100000000,4
+1:6,Kriminalvården,161000000,4
+1:7,Brottsförebyggande rådet,0,4
+1:8,Rättsmedicinalverket,0,4
+1:9,Brottsoffermyndigheten,0,4
+1:1,Avgifter till internationella organisationer,0,5
+1:10,Information om Sverige i utlandet,-6000000,5
+1:11,Samarbete inom Östersjöregionen,0,5
+1:2,Freds- och säkerhetsfrämjande verksamhet,15000000,5
+1:3,Nordiskt samarbete,0,5
+1:4,Ekonomiskt bistånd till enskilda utomlands samt diverse kostnader för rättsväsendet,0,5
+1:5,Inspektionen för strategiska produkter,0,5
+1:6,"Forskning, utredningar och andra insatser rörande säkerhetspolitik, nedrustning och icke-spridning",0,5
+1:7,Bidrag till Stockholms internationella fredsforskningsinstitut (SIPRI),0,5
+1:8,Bidrag till Utrikespolitiska institutet (UI),-3000000,5
+1:9,Svenska institutet,-20000000,5
 1:1,Förbandsverksamhet och beredskap,0,6
+1:10,Nämnder m.m.,0,6
+1:11,Försvarets materielverk,0,6
+1:12,Försvarsunderrättelsedomstolen,0,6
 1:2,Försvarsmaktens insatser internationellt,0,6
 1:3,Anskaffning av materiel och anläggningar,0,6
 1:4,Forskning och teknikutveckling,0,6
@@ -65,9 +79,6 @@ Anslag,Namn,2022,Utgiftsområde
 1:7,Officersutbildning m.m.,0,6
 1:8,Försvarets radioanstalt,30000000,6
 1:9,Totalförsvarets forskningsinstitut,0,6
-1:10,Nämnder m.m.,0,6
-1:11,Försvarets materielverk,0,6
-1:12,Försvarsunderrättelsedomstolen,0,6
 2:1,Kustbevakningen,40000000,6
 2:2,Förebyggande åtgärder mot jordskred och andra naturolyckor,-425000000,6
 2:3,Ersättning för räddningstjänst m.m.,0,6
@@ -79,6 +90,12 @@ Anslag,Namn,2022,Utgiftsområde
 2:9,Rakel Generation 2,0,6
 3:1,Strålsäkerhetsmyndigheten,0,6
 99:1,Cybersäkerhetsmyndighet,10000000,6
+1:1,Biståndsverksamhet,0,7
+1:2,Styrelsen för internationellt utvecklingssamarbete (Sida),0,7
+1:3,Nordiska Afrikainstitutet,0,7
+1:4,Folke Bernadotteakademin,0,7
+1:5,Riksrevisionen: Internationellt utvecklingssamarbete,0,7
+1:6,Utvärdering av internationellt bistånd,0,7
 1:1,Migrationsverket,175000000,8
 1:2,Ersättningar och bostadskostnader,100000000,8
 1:3,Migrationspolitiska åtgärder,0,8
@@ -89,6 +106,9 @@ Anslag,Namn,2022,Utgiftsområde
 1:8,Från EU-budgeten finansierade insatser för asylsökande och flyktingar,0,8
 99:1,Inspektion för migrationsfrågor,10000000,8
 1:1,Socialstyrelsen,0,9
+1:10,E-hälsomyndigheten,0,9
+1:11,Prestationsbundna insatser för att korta vårdköerna,0,9
+1:12,Inspektionen för vård och omsorg,25000000,9
 1:2,Statens beredning för medicinsk och social utvärdering,0,9
 1:3,Tandvårds- och läkemedelsförmånsverket,0,9
 1:4,Tandvårdsförmåner,0,9
@@ -97,9 +117,6 @@ Anslag,Namn,2022,Utgiftsområde
 1:7,Sjukvård i internationella förhållanden,0,9
 1:8,Bidrag till psykiatri,50000000,9
 1:9,Läkemedelsverket,0,9
-1:10,E-hälsomyndigheten,0,9
-1:11,Prestationsbundna insatser för att korta vårdköerna,0,9
-1:12,Inspektionen för vård och omsorg,25000000,9
 2:1,Folkhälsomyndigheten,0,9
 2:2,Insatser för vaccinberedskap,0,9
 2:3,Bidrag till WHO,0,9
@@ -148,7 +165,19 @@ Anslag,Namn,2022,Utgiftsområde
 1:6,Omvårdnadsbidrag och vårdbidrag,0,12
 1:7,Pensionsrätt för barnår,0,12
 1:8,Bostadsbidrag,600000000,12
+1:1,Etableringsåtgärder,120000000,13
+3:1,Särskilda jämställdhetsåtgärder,27000000,13
+3:2,Jämställdhetsmyndigheten,-26000000,13
+4:1,Åtgärder mot segregation,-250000000,13
+4:2,Delegationen mot segregation,-9000000,13
+99:2,Inrättande av jämställdhetsdelegation,13000000,13
 1:1,Arbetsförmedlingens förvaltningskostnader,0,14
+1:10,Bidrag till administration av grundbeloppet,0,14
+1:11,Bidrag till Stiftelsen Utbildning Nordkalotten,0,14
+1:12,Bidrag till lönegarantiersättning,0,14
+1:13,"Nystartsjobb, etableringsjobb och stöd för yrkesintroduktionsanställningar",3084000000,14
+1:14,Etableringsersättning till vissa nyanlända invandrare,-162000000,14
+1:15,Omställnings- och kompetensstöd genom den offentliga omställningsorganisationen,0,14
 1:2,Bidrag till arbetslöshetsersättning och aktivitetsstöd,-4237000000,14
 1:3,Kostnader för arbetsmarknadspolitiska program och insatser,-309000000,14
 1:4,Lönebidrag och Samhall m.m.,180000000,14
@@ -157,12 +186,6 @@ Anslag,Namn,2022,Utgiftsområde
 1:7,Europeiska socialfonden plus m.m. för perioden 2021–2027,0,14
 1:8,Institutet för arbetsmarknads- och utbildningspolitisk utvärdering,0,14
 1:9,Inspektionen för arbetslöshetsförsäkringen,0,14
-1:10,Bidrag till administration av grundbeloppet,0,14
-1:11,Bidrag till Stiftelsen Utbildning Nordkalotten,0,14
-1:12,Bidrag till lönegarantiersättning,0,14
-1:13,"Nystartsjobb, etableringsjobb och stöd för yrkesintroduktionsanställningar",3084000000,14
-1:14,Etableringsersättning till vissa nyanlända invandrare,-162000000,14
-1:15,Omställnings- och kompetensstöd genom den offentliga omställningsorganisationen,0,14
 2:1,Arbetsmiljöverket,0,14
 2:2,Arbetsdomstolen,0,14
 2:3,Internationella arbetsorganisationen (ILO),0,14
@@ -183,14 +206,6 @@ Anslag,Namn,2022,Utgiftsområde
 1:8,Centrala studiestödsnämnden,0,15
 1:9,Överklagandenämnden för studiestöd,0,15
 1:1,Statens skolverk,0,16
-1:2,Statens skolinspektion,18000000,16
-1:3,Specialpedagogiska skolmyndigheten,0,16
-1:4,Sameskolstyrelsen,0,16
-1:5,Utveckling av skolväsendet och annan pedagogisk verksamhet,-220000000,16
-1:6,Statligt stöd till särskild utbildning i gymnasieskolan,0,16
-1:7,"Maxtaxa i förskola, fritidshem och annan pedagogisk verksamhet, m.m.",0,16
-1:8,"Bidrag till viss verksamhet inom skolväsendet, m.m.",0,16
-1:9,Bidrag till svensk undervisning i utlandet,0,16
 1:10,Fortbildning av lärare och förskolepersonal,100000000,16
 1:11,Skolforskningsinstitutet,0,16
 1:12,Praktiknära skolforskning,50000000,16
@@ -201,15 +216,15 @@ Anslag,Namn,2022,Utgiftsområde
 1:17,Statligt stöd till vuxenutbildning,0,16
 1:18,Myndigheten för yrkeshögskolan,0,16
 1:19,Statligt stöd till yrkeshögskoleutbildning,0,16
+1:2,Statens skolinspektion,18000000,16
+1:3,Specialpedagogiska skolmyndigheten,0,16
+1:4,Sameskolstyrelsen,0,16
+1:5,Utveckling av skolväsendet och annan pedagogisk verksamhet,-220000000,16
+1:6,Statligt stöd till särskild utbildning i gymnasieskolan,0,16
+1:7,"Maxtaxa i förskola, fritidshem och annan pedagogisk verksamhet, m.m.",0,16
+1:8,"Bidrag till viss verksamhet inom skolväsendet, m.m.",0,16
+1:9,Bidrag till svensk undervisning i utlandet,0,16
 2:1,Universitetskanslersämbetet,0,16
-2:2,Universitets- och högskolerådet,0,16
-2:3,Uppsala universitet: Utbildning på grundnivå och avancerad nivå,0,16
-2:4,Uppsala universitet: Forskning och utbildning på forskarnivå,0,16
-2:5,Lunds universitet: Utbildning på grundnivå och avancerad nivå,0,16
-2:6,Lunds universitet: Forskning och utbildning på forskarnivå,0,16
-2:7,Göteborgs universitet: Utbildning på grundnivå och avancerad nivå,0,16
-2:8,Göteborgs universitet: Forskning och utbildning på forskarnivå,0,16
-2:9,Stockholms universitet: Utbildning på grundnivå och avancerad nivå,0,16
 2:10,Stockholms universitet: Forskning och utbildning på forskarnivå,0,16
 2:11,Umeå universitet: Utbildning på grundnivå och avancerad nivå,0,16
 2:12,Umeå universitet: Forskning och utbildning på forskarnivå,0,16
@@ -220,6 +235,7 @@ Anslag,Namn,2022,Utgiftsområde
 2:17,Kungl. Tekniska högskolan: Utbildning på grundnivå och avancerad nivå,0,16
 2:18,Kungl. Tekniska högskolan: Forskning och utbildning på forskarnivå,0,16
 2:19,Luleå tekniska universitet: Utbildning på grundnivå och avancerad nivå,0,16
+2:2,Universitets- och högskolerådet,0,16
 2:20,Luleå tekniska universitet: Forskning och utbildning på forskarnivå,0,16
 2:21,Karlstads universitet: Utbildning på grundnivå och avancerad nivå,0,16
 2:22,Karlstads universitet: Forskning och utbildning på forskarnivå,0,16
@@ -230,6 +246,7 @@ Anslag,Namn,2022,Utgiftsområde
 2:27,Mittuniversitetet: Utbildning på grundnivå och avancerad nivå,0,16
 2:28,Mittuniversitetet: Forskning och utbildning på forskarnivå,0,16
 2:29,Malmö universitet: Utbildning på grundnivå och avancerad nivå,0,16
+2:3,Uppsala universitet: Utbildning på grundnivå och avancerad nivå,0,16
 2:30,Malmö universitet: Forskning och utbildning på forskarnivå,0,16
 2:31,Mälardalens universitet: Utbildning på grundnivå och avancerad nivå,0,16
 2:32,Mälardalens universitet: Forskning och utbildning på forskarnivå,0,16
@@ -240,6 +257,7 @@ Anslag,Namn,2022,Utgiftsområde
 2:37,Gymnastik- och idrottshögskolan: Utbildning på grundnivå och avancerad nivå,0,16
 2:38,Gymnastik- och idrottshögskolan: Forskning och utbildning på forskarnivå,0,16
 2:39,Högskolan i Borås: Utbildning på grundnivå och avancerad nivå,0,16
+2:4,Uppsala universitet: Forskning och utbildning på forskarnivå,0,16
 2:40,Högskolan i Borås: Forskning och utbildning på forskarnivå,0,16
 2:41,Högskolan Dalarna: Utbildning på grundnivå och avancerad nivå,0,16
 2:42,Högskolan Dalarna: Forskning och utbildning på forskarnivå,0,16
@@ -250,6 +268,7 @@ Anslag,Namn,2022,Utgiftsområde
 2:47,Högskolan Kristianstad: Utbildning på grundnivå och avancerad nivå,0,16
 2:48,Högskolan Kristianstad: Forskning och utbildning på forskarnivå,0,16
 2:49,Högskolan i Skövde: Utbildning på grundnivå och avancerad nivå,0,16
+2:5,Lunds universitet: Utbildning på grundnivå och avancerad nivå,0,16
 2:50,Högskolan i Skövde: Forskning och utbildning på forskarnivå,0,16
 2:51,Högskolan Väst: Utbildning på grundnivå och avancerad nivå,0,16
 2:52,Högskolan Väst: Forskning och utbildning på forskarnivå,0,16
@@ -260,6 +279,7 @@ Anslag,Namn,2022,Utgiftsområde
 2:57,Kungl. Musikhögskolan i Stockholm: Utbildning på grundnivå och avancerad nivå,0,16
 2:58,Kungl. Musikhögskolan i Stockholm: Konstnärlig forskning och utbildning på forskarnivå,0,16
 2:59,Södertörns högskola: Utbildning på grundnivå och avancerad nivå,0,16
+2:6,Lunds universitet: Forskning och utbildning på forskarnivå,0,16
 2:60,Södertörns högskola: Forskning och utbildning på forskarnivå,0,16
 2:61,Försvarshögskolan: Utbildning på grundnivå och avancerad nivå,0,16
 2:62,Försvarshögskolan: Forskning och utbildning på forskarnivå,0,16
@@ -268,7 +288,15 @@ Anslag,Namn,2022,Utgiftsområde
 2:65,Särskilda medel till universitet och högskolor,0,16
 2:66,Ersättningar för klinisk utbildning och forskning,0,16
 2:67,Särskilda bidrag inom högskoleområdet,0,16
+2:7,Göteborgs universitet: Utbildning på grundnivå och avancerad nivå,0,16
+2:8,Göteborgs universitet: Forskning och utbildning på forskarnivå,0,16
+2:9,Stockholms universitet: Utbildning på grundnivå och avancerad nivå,0,16
 3:1,Vetenskapsrådet: Forskning och forskningsinformation,-270000000,16
+3:10,Överklagandenämnden för etikprövning,0,16
+3:11,Etikprövningsmyndigheten,0,16
+3:12,Nämnden för prövning av oredlighet i forskning,0,16
+3:13,Särskilda utgifter för forskningsändamål,0,16
+3:14,Gentekniknämnden,0,16
 3:2,Vetenskapsrådet: Avgifter till internationella organisationer,0,16
 3:3,Vetenskapsrådet: Förvaltning,0,16
 3:4,Rymdforskning och rymdverksamhet,-50000000,16
@@ -277,11 +305,6 @@ Anslag,Namn,2022,Utgiftsområde
 3:7,Kungl. biblioteket,0,16
 3:8,Polarforskningssekretariatet,0,16
 3:9,Sunet,0,16
-3:10,Överklagandenämnden för etikprövning,0,16
-3:11,Etikprövningsmyndigheten,0,16
-3:12,Nämnden för prövning av oredlighet i forskning,0,16
-3:13,Särskilda utgifter för forskningsändamål,0,16
-3:14,Gentekniknämnden,0,16
 4:1,Internationella program,0,16
 4:2,Avgift till Unesco och ICCROM,0,16
 4:3,Kostnader för Svenska Unescorådet,0,16
@@ -293,6 +316,25 @@ Anslag,Namn,2022,Utgiftsområde
 99:7,Läxhjälp utsatta områden,50000000,16
 99:8,Teach for Sweden,10000000,16
 99:9,Barnomsorgspeng,0,16
+10:1,Filmstöd,-155000000,17
+11:1,Sändningar av TV Finland,0,17
+11:2,Forskning och dokumentation om medieutvecklingen,0,17
+11:3,Avgift till Europeiska audiovisuella observatoriet,0,17
+11:4,Statens medieråd,0,17
+11:5,Stöd till taltidningar,0,17
+12:1,Myndigheten för ungdoms- och civilsamhällesfrågor,40000000,17
+12:2,Bidrag till nationell och internationell ungdomsverksamhet,180000000,17
+12:3,Särskilda insatser inom ungdomspolitiken,780000000,17
+13:1,Stöd till idrotten,50000000,17
+13:2,Bidrag till allmänna samlingslokaler,20000000,17
+13:3,Stöd till friluftsorganisationer,20000000,17
+13:4,Bidrag till riksdagspartiers kvinnoorganisationer,0,17
+13:5,Insatser för den ideella sektorn,220000000,17
+14:1,Bidrag till folkbildningen,-40000000,17
+14:2,Bidrag till tolkutbildning,0,17
+14:3,Särskilda insatser inom folkbildningen,0,17
+14:4,Särskilt utbildningsstöd,0,17
+15:1,Spelinspektionen,0,17
 1:1,Statens kulturråd,0,17
 1:2,"Bidrag till allmän kulturverksamhet, utveckling samt internationellt kulturutbyte och samarbete",-390000000,17
 1:3,Skapande skola,10000000,17
@@ -322,39 +364,32 @@ Anslag,Namn,2022,Utgiftsområde
 8:3,Bidrag till vissa museer,-4000000,17
 8:4,Forum för levande historia,10000000,17
 8:5,Statliga utställningsgarantier och inköp av vissa kulturföremål,0,17
-9:1,Myndigheten för stöd till trossamfund,0,17
-9:2,Stöd till trossamfund,55000000,17
-10:1,Filmstöd,-155000000,17
-11:1,Sändningar av TV Finland,0,17
-11:2,Forskning och dokumentation om medieutvecklingen,0,17
-11:3,Avgift till Europeiska audiovisuella observatoriet,0,17
-11:4,Statens medieråd,0,17
-11:5,Stöd till taltidningar,0,17
-12:1,Myndigheten för ungdoms- och civilsamhällesfrågor,40000000,17
-12:2,Bidrag till nationell och internationell ungdomsverksamhet,180000000,17
-12:3,Särskilda insatser inom ungdomspolitiken,780000000,17
-13:1,Stöd till idrotten,50000000,17
-13:2,Bidrag till allmänna samlingslokaler,20000000,17
-13:3,Stöd till friluftsorganisationer,20000000,17
-13:4,Bidrag till riksdagspartiers kvinnoorganisationer,0,17
-13:5,Insatser för den ideella sektorn,220000000,17
-14:1,Bidrag till folkbildningen,-40000000,17
-14:2,Bidrag till tolkutbildning,0,17
-14:3,Särskilda insatser inom folkbildningen,0,17
-14:4,Särskilt utbildningsstöd,0,17
-15:1,Spelinspektionen,0,17
 99:1,Ökad gemenskap och fysisk aktivitet funktionsnedsatta,10000000,17
 99:2,Äldrelyftet,20000000,17
 99:3,Riktad satsning kulturrådet ideella musikarrangörer,15000000,17
+9:1,Myndigheten för stöd till trossamfund,0,17
+9:2,Stöd till trossamfund,55000000,17
+1:1,Bostadspolitisk utveckling,-20600000,18
+1:2,Omstrukturering av kommunala bostadsföretag,0,18
+1:3,Stöd för att underlätta för enskilda att ordna bostad,0,18
+1:4,Boverket,-17000000,18
+1:5,Statens geotekniska institut,0,18
+1:6,Lantmäteriet,20000000,18
+1:7,Energieffektivisering av flerbostadshus,-1365000000,18
+1:8,Investeringsstöd för anordnande av hyresbostäder och bostäder för studerande,-500000000,18
+2:1,Konsumentverket,0,18
+2:2,Allmänna reklamationsnämnden,0,18
+2:3,Fastighetsmäklarinspektionen,0,18
+2:4,Åtgärder på konsumentområdet,0,18
+2:5,Bidrag till miljömärkning av produkter,0,18
+99:1,Stöd till åtgärder mot radon i bostäder,20000000,18
+99:2,Planeringsstimulans för fler småhus,350000000,18
+99:3,Trygghetsskapande åtgärder i den fysiska miljön,500000000,18
+1:1,Regionala utvecklingsåtgärder,75000000,19
+1:2,Transportbidrag,0,19
+1:3,Europeiska regionala utvecklingsfonden perioden 2014–2020,0,19
+1:4,Europeiska regionala utvecklingsfonden och Fonden för en rättvis omställning perioden 2021–2027,0,19
 1:1,Naturvårdsverket,-12000000,20
-1:2,Miljöövervakning m.m.,-38000000,20
-1:3,Åtgärder för värdefull natur,-350000000,20
-1:4,Sanering och återställning av förorenade områden,0,20
-1:5,Miljöforskning,0,20
-1:6,Kemikalieinspektionen,0,20
-1:7,Avgifter till Internationella organisationer,0,20
-1:8,Klimatbonus,600000000,20
-1:9,Sveriges meteorologiska och hydrologiska institut,0,20
 1:10,Klimatanpassning,0,20
 1:11,Åtgärder för havs- och vattenmiljö,0,20
 1:12,Insatser för internationella klimatinvesteringar,0,20
@@ -365,13 +400,23 @@ Anslag,Namn,2022,Utgiftsområde
 1:17,Klimatpremier,-1180000000,20
 1:18,Stöd för gröna och trygga samhällen,-200000000,20
 1:19,Industriklivet,0,20
+1:2,Miljöövervakning m.m.,-38000000,20
 1:20,Åtgärder för ras- och skredsäkring längs Göta älv,0,20
 1:21,Driftstöd för bio-CCS,0,20
 1:22,Kompetenslyft för klimatomställningen,-100000000,20
+1:3,Åtgärder för värdefull natur,-350000000,20
+1:4,Sanering och återställning av förorenade områden,0,20
+1:5,Miljöforskning,0,20
+1:6,Kemikalieinspektionen,0,20
+1:7,Avgifter till Internationella organisationer,0,20
+1:8,Klimatbonus,600000000,20
+1:9,Sveriges meteorologiska och hydrologiska institut,0,20
 2:1,"Forskningsrådet för miljö, areella näringar och samhällsbyggande",0,20
 2:2,"Forskningsrådet för miljö, areella näringar och samhällsbyggande: Forskning",0,20
 99:2,Effektiv utsläppsbroms,1000000000,20
 1:1,Statens energimyndighet,0,21
+1:10,Energi- och klimatomställning på lokal och regional nivå m.m,-140000000,21
+1:11,Elsäkerhetsverket,0,21
 1:2,Insatser för energieffektivisering,0,21
 1:3,Insatser för förnybar elproduktion,-15000000,21
 1:4,Energiforskning,170000000,21
@@ -380,17 +425,7 @@ Anslag,Namn,2022,Utgiftsområde
 1:7,Energiteknik,0,21
 1:8,Elberedskap,0,21
 1:9,Avgifter till internationella organisationer,0,21
-1:10,Energi- och klimatomställning på lokal och regional nivå m.m,-140000000,21
-1:11,Elsäkerhetsverket,0,21
 1:1,Utveckling av statens transportinfrastruktur,10000000,22
-1:2,Vidmakthållande av statens transportinfrastruktur,355000000,22
-1:3,Trafikverket,0,22
-1:4,Ersättning för sjöräddning och fritidsbåtsändamål,175000000,22
-1:5,Ersättning för viss kanal- och slussinfrastruktur,0,22
-1:6,Ersättning avseende icke statliga flygplatser,100000000,22
-1:7,Trafikavtal,0,22
-1:8,Viss internationell verksamhet,0,22
-1:9,Statens väg- och transportforskningsinstitut,10000000,22
 1:10,Från EU-budgeten finansierade stöd till Transeuropeiska nätverk,0,22
 1:11,Trängselskatt i Stockholm,0,22
 1:12,Transportstyrelsen,0,22
@@ -401,6 +436,14 @@ Anslag,Namn,2022,Utgiftsområde
 1:17,Infrastruktur för flygtrafiktjänst,0,22
 1:18,Bidrag för upprätthållande av kollektivtrafik,0,22
 1:19,Lån till körkort,0,22
+1:2,Vidmakthållande av statens transportinfrastruktur,355000000,22
+1:3,Trafikverket,0,22
+1:4,Ersättning för sjöräddning och fritidsbåtsändamål,175000000,22
+1:5,Ersättning för viss kanal- och slussinfrastruktur,0,22
+1:6,Ersättning avseende icke statliga flygplatser,100000000,22
+1:7,Trafikavtal,0,22
+1:8,Viss internationell verksamhet,0,22
+1:9,Statens väg- och transportforskningsinstitut,10000000,22
 2:1,Post- och telestyrelsen,0,22
 2:2,Ersättning för särskilda tjänster för personer med funktionsnedsättning,0,22
 2:3,Grundläggande betaltjänster,0,22
@@ -410,14 +453,6 @@ Anslag,Namn,2022,Utgiftsområde
 2:7,Digital förvaltning,0,22
 99:1,Stöd för utbyggd infrastruktur el-flyg,100000000,22
 1:1,Skogsstyrelsen,-88600000,23
-1:2,Insatser för skogsbruket,-620000000,23
-1:3,Statens veterinärmedicinska anstalt,0,23
-1:4,Bidrag till veterinär fältverksamhet,0,23
-1:5,Djurhälsovård och djurskyddsfrämjande åtgärder,0,23
-1:6,Bekämpning av smittsamma djursjukdomar,0,23
-1:7,Ersättningar för viltskador m.m.,10000000,23
-1:8,Statens jordbruksverk,75000000,23
-1:9,Bekämpning av växtskadegörare,0,23
 1:10,Gårdsstöd m.m.,0,23
 1:11,Intervention för jordbruksprodukter m.m.,-27000000,23
 1:12,Stödåtgärder för fiske och vattenbruk,0,23
@@ -428,6 +463,7 @@ Anslag,Namn,2022,Utgiftsområde
 1:17,Åtgärder för landsbygdens miljö och struktur,14000000,23
 1:18,Från EU-budgeten finansierade åtgärder för landsbygdens miljö och struktur,0,23
 1:19,Miljöförbättrande åtgärder i jordbruket,0,23
+1:2,Insatser för skogsbruket,-620000000,23
 1:20,Stöd till jordbrukets rationalisering m.m.,0,23
 1:21,Åtgärder på fjällägenheter,0,23
 1:22,Främjande av rennäringen m.m.,0,23
@@ -438,7 +474,45 @@ Anslag,Namn,2022,Utgiftsområde
 1:27,Åtgärder för beredskap inom livsmedels- och dricksvattenområdet,0,23
 1:28,Stödåtgärder för fiske och vattenbruk 2021–2027,0,23
 1:29,Från EU-budgeten finansierade stödåtgärder för fiske och vattenbruk 2021–2027,0,23
+1:3,Statens veterinärmedicinska anstalt,0,23
+1:4,Bidrag till veterinär fältverksamhet,0,23
+1:5,Djurhälsovård och djurskyddsfrämjande åtgärder,0,23
+1:6,Bekämpning av smittsamma djursjukdomar,0,23
+1:7,Ersättningar för viltskador m.m.,10000000,23
+1:8,Statens jordbruksverk,75000000,23
+1:9,Bekämpning av växtskadegörare,0,23
 99:1,Inrättande av Jakt- och viltvårdsmyndighet,50000000,23
+1:1,Verket för innovationssystem,-10000000,24
+1:10,Miljösäkring av oljelagringsanläggningar,0,24
+1:11,Bolagsverket,0,24
+1:12,Bidrag till Kungl. Ingenjörsvetenskapsakademien,0,24
+1:13,Konkurrensverket,0,24
+1:14,Konkurrensforskning,0,24
+1:15,Upprustning och drift av Göta kanal,20000000,24
+1:16,Omstrukturering och genomlysning av statligt ägda företag,0,24
+1:17,Kapitalinsatser i statligt ägda företag,0,24
+1:18,Avgifter till vissa internationella organisationer,0,24
+1:19,Finansiering av rättegångskostnader,0,24
+1:2,Verket för innovationssystem: Forskning och utveckling,-120000000,24
+1:20,Bidrag till företagsutveckling och innovation,0,24
+1:21,Patent- och registreringsverket,0,24
+1:22,Stöd vid korttidsarbete,0,24
+1:23,Brexitjusteringsreserven,0,24
+1:3,Institutens strategiska kompetensmedel,-100000000,24
+1:4,Tillväxtverket,15000000,24
+1:5,Näringslivsutveckling,-275000000,24
+1:6,Myndigheten för tillväxtpolitiska utvärderingar och analyser,5000000,24
+1:7,Turistfrämjande,-40000000,24
+1:8,Sveriges geologiska undersökning,-29000000,24
+1:9,Geovetenskaplig forskning,0,24
+2:1,Styrelsen för ackreditering och teknisk kontroll: Myndighetsverksamhet,0,24
+2:2,Kommerskollegium,-10000000,24
+2:3,Exportfrämjande verksamhet,-160000000,24
+2:4,Investeringsfrämjande,-10000000,24
+2:5,Avgifter till internationella handelsorganisationer,0,24
+2:6,Bidrag till standardiseringen,0,24
+2:7,AB Svensk Exportkredits statsstödda exportkreditgivning,0,24
+99:1,Central plattform för regelgivning,3000000,24
 1:1,Kommunalekonomisk utjämning,4824000000,25
 1:2,Utjämningsbidrag för LSS-kostnader,0,25
 1:3,Bidrag till kommunalekonomiska organisationer,0,25

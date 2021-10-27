@@ -1,209 +1,233 @@
 Anslag,2022,2023,2024,Utgiftsområde,Namn
-4:1,-25000000,-50000000,-100000000,1,Regeringskansliet m.m.
-6:5,-19000000,-19000000,-19000000,1,Stöd till politiska partier
 9:1,-19000000,-19000000,-19000000,1,Svenska institutet för europapolitiska studier samt EU-information
-6:3,5000000,5000000,5000000,1,Integritetsskyddsmyndigheten
-3:1,1000000,1000000,1000000,1,Sametinget
+4:1,-25000000,-50000000,-100000000,1,Regeringskansliet m.m.
 1:1,3000000,3000000,3000000,1,Kungliga hov- och slottsstaten
-5:1,15000000,15000000,15000000,1,Länsstyrelserna m.m.
-8:1,-140000000,-280000000,-420000000,1,Mediestöd
 2:2,10000000,10000000,10000000,1,Riksdagens förvaltningsanslag
+6:3,5000000,5000000,5000000,1,Integritetsskyddsmyndigheten
+6:5,-19000000,-19000000,-19000000,1,Stöd till politiska partier
+8:1,-140000000,-280000000,-420000000,1,Mediestöd
+3:1,1000000,1000000,1000000,1,Sametinget
+5:1,15000000,15000000,15000000,1,Länsstyrelserna m.m.
 1:11,5000000,5000000,5000000,2,Finansinspektionen
-1:2,210000000,210000000,210000000,4,Säkerhetspolisen
-1:10,175000000,175000000,175000000,4,Ersättning för skador på grund av brott
+99:1,500000000,0,0,3,Folkräkning
+1:3,50000000,50000000,50000000,3,Kronofogdemyndigheten
+1:2,90000000,190000000,290000000,3,Tullverket
+1:1,415000000,350000000,271000000,3,Skatteverket
 1:6,717000000,620000000,620000000,4,Kriminalvården
 1:11,50000000,50000000,50000000,4,Rättsliga biträden
-1:1,3145000000,3305000000,5638000000,4,Polismyndigheten
-1:4,35000000,45000000,40000000,4,Ekobrottsmyndigheten
-1:5,95000000,60000000,100000000,4,Sveriges domstolar
+1:2,210000000,210000000,210000000,4,Säkerhetspolisen
 1:3,25000000,25000000,25000000,4,Åklagarmyndigheten
-1:5,1000000,1000000,1000000,5,Inspektionen för strategiska produkter
+1:5,95000000,60000000,100000000,4,Sveriges domstolar
+1:1,3145000000,3305000000,5638000000,4,Polismyndigheten
+1:10,175000000,175000000,175000000,4,Ersättning för skador på grund av brott
+1:4,35000000,45000000,40000000,4,Ekobrottsmyndigheten
 1:9,10000000,10000000,10000000,5,Svenska institutet
 1:3,10000000,10000000,10000000,5,Nordiskt samarbete
-99:1,300000000,400000000,600000000,6,Beredskapslager
-1:2,0,-645000000,-1290000000,6,Försvarsmaktens insatser internationellt
-1:11,20000000,20000000,20000000,6,Försvarets materielverk
-1:9,50000000,50000000,50000000,6,Totalförsvarets forskningsinstitut
-1:8,30000000,30000000,30000000,6,Försvarets radioanstalt
-1:3,1287000000,2027000000,1957000000,6,Anskaffning av materiel och anläggningar
+1:5,1000000,1000000,1000000,5,Inspektionen för strategiska produkter
 2:2,20000000,20000000,20000000,6,Förebyggande åtgärder mot jordskred och andra naturolyckor
-1:1,1156000000,656000000,656000000,6,Förbandsverksamhet och beredskap
 1:4,50000000,50000000,50000000,6,Forskning och teknikutveckling
+1:3,1287000000,2027000000,1957000000,6,Anskaffning av materiel och anläggningar
+1:1,1156000000,656000000,656000000,6,Förbandsverksamhet och beredskap
+1:8,30000000,30000000,30000000,6,Försvarets radioanstalt
+1:2,0,-645000000,-1290000000,6,Försvarsmaktens insatser internationellt
+1:9,50000000,50000000,50000000,6,Totalförsvarets forskningsinstitut
+99:1,300000000,400000000,600000000,6,Beredskapslager
 2:1,20000000,10000000,10000000,6,Kustbevakningen
-1:3,-2000000,-2000000,-2000000,7,Nordiska Afrikainstitutet
-1:4,-21000000,-23000000,-23000000,7,Folke Bernadotteakademin
-1:1,-16500000000,-22500000000,-28500000000,7,Biståndsverksamhet
-1:2,-500000000,-600000000,-700000000,7,Styrelsen för internationellt utvecklingssamarbete (Sida)
+1:11,20000000,20000000,20000000,6,Försvarets materielverk
 1:6,-2000000,-2000000,-2000000,7,Utvärdering av internationellt bistånd
-99:1,10000000,10000000,10000000,9,Nationell återhämtningsstrategi för vårdpersonal
-4:2,40000000,70000000,70000000,9,Vissa statsbidrag inom funktionshindersområdet
-4:4,990000000,1000000000,1530000000,9,Kostnader för statlig assistansersättning
-4:7,175000000,5000000,5000000,9,Bidrag till utveckling av socialt arbete m.m.
-4:6,-184000000,0,0,9,Statens institutionsstyrelse.
-4:5,200000000,200000000,200000000,9,Stimulansbidrag och åtgärder inom äldreområdet
-1:6,515000000,520000000,525000000,9,Bidrag till folkhälsa och sjukvård
-1:12,13000000,20000000,20000000,9,Inspektionen för vård och omsorg
-1:1,400000000,400000000,400000000,9,Socialstyrelsen
-99:2,250000000,250000000,250000000,9,Kvinnors hälsa
+1:3,-2000000,-2000000,-2000000,7,Nordiska Afrikainstitutet
+1:2,-500000000,-600000000,-700000000,7,Styrelsen för internationellt utvecklingssamarbete (Sida)
+1:1,-16500000000,-22500000000,-28500000000,7,Biståndsverksamhet
+1:4,-21000000,-23000000,-23000000,7,Folke Bernadotteakademin
+1:5,-48000000,-96000000,-141000000,8,Rättsliga biträden m.m. vid domstolsprövning i utlänningsmål
+1:2,-1095000000,-1500000000,-2050000000,8,Ersättningar och bostadskostnader
+1:7,196000000,279000000,289000000,8,Utresor för avvisade och utvisade
+1:1,-116000000,-1351000000,-1699000000,8,Migrationsverket
+1:3,-123000000,-123000000,-114000000,8,Migrationspolitiska åtgärder
+1:4,20000000,-204000000,-420000000,8,Domstolsprövning i utlänningsärenden
+1:6,-71000000,-106000000,-192000000,8,Offentligt biträde i utlänningsärenden
 99:3,150000000,0,0,9,Nationellt program mot livmoderhalscancer
-1:6,100000000,300000000,300000000,10,Bidrag för sjukskrivningsprocessen
-1:1,-30000000,-20000000,610000000,10,Sjukpenning och rehabilitering m.m.
-1:2,0,0,0,10,Aktivitets och sjukersättningar m.m.
+4:4,990000000,1000000000,1530000000,9,Kostnader för statlig assistansersättning
+1:12,13000000,20000000,20000000,9,Inspektionen för vård och omsorg
+1:6,515000000,520000000,525000000,9,Bidrag till folkhälsa och sjukvård
+4:2,40000000,70000000,70000000,9,Vissa statsbidrag inom funktionshindersområdet
+99:2,250000000,250000000,250000000,9,Kvinnors hälsa
+4:7,175000000,5000000,5000000,9,Bidrag till utveckling av socialt arbete m.m.
+99:1,10000000,10000000,10000000,9,Nationell återhämtningsstrategi för vårdpersonal
+4:6,-184000000,0,0,9,Statens institutionsstyrelse.
+1:1,400000000,400000000,400000000,9,Socialstyrelsen
+4:5,200000000,200000000,200000000,9,Stimulansbidrag och åtgärder inom äldreområdet
 1:7,0,-1000000000,-1000000000,10,Ersättning för höga sjuklönekostnader
+1:3,30000000,30000000,30000000,10,Merkostnadsersättning
+1:6,100000000,300000000,300000000,10,Bidrag för sjukskrivningsprocessen
+1:2,0,0,0,10,Aktivitets och sjukersättningar m.m.
+1:1,-30000000,-20000000,610000000,10,Sjukpenning och rehabilitering m.m.
 2:1,-193000000,7000000,7000000,10,Försäkringskassan
 99:1,3000000000,6200000000,6300000000,10,Sjuklön för småföretag
-1:3,30000000,30000000,30000000,10,Merkostnadsersättning
-99:1,1000000000,900000000,900000000,12,Bidrag till förstföderskor
-1:2,-3418000000,-4614000000,-3504000000,12,Föräldraförsäkring
+1:3,-425000000,-450000000,-450000000,11,Bostadstillägg till pensionärer
+1:4,-25000000,-25000000,-25000000,11,Äldreförsörjningsstöd
+1:1,1250000000,1275000000,1225000000,11,Garantipension till ålderspension
 1:8,750000000,750000000,750000000,12,Bostadsbidrag
+99:1,1000000000,900000000,900000000,12,Bidrag till förstföderskor
+1:2,-1699000000,-2302000000,-1797000000,12,Föräldraförsäkring
 3:1,75000000,75000000,75000000,13,Särskilda jämställdhetsåtgärder
+1:2,-2258000000,-3200000000,-4225000000,13,Kommunersättningar vid flyktingmottagande
 1:1,-137030000,-107000000,-97000000,13,Etableringsåtgärder
 2:1,-65000000,-131108000,-132427000,13,Diskrimineringsombudsmannen
-1:3,-167271000,-155771000,-165771000,13,Hemutrustningslån
-99:1,380000000,380000000,380000000,13,Obligatorisk förskola för vissa barn
-4:1,-500000000,-500000000,0,13,Åtgärder mot segregation
 3:2,-38000000,-72000000,-73000000,13,Jämställdhetsmyndigheten
 4:2,-9000000,-18690000,-18881000,13,Delegation mot segregation
-1:2,-2258000000,-3200000000,-4225000000,13,Kommunersättningar vid flyktingmottagande
-1:4,100000000,100000000,100000000,14,Lönebidrag och Samhall m.m.
-2:1,50000000,50000000,50000000,14,Arbetsmiljöverket
+99:1,380000000,380000000,380000000,13,Obligatorisk förskola för vissa barn
+4:1,-500000000,-500000000,0,13,Åtgärder mot segregation
+1:3,-167271000,-155771000,-165771000,13,Hemutrustningslån
+1:14,-550000000,-1084464000,-1092776000,14,Etableringsersättning till vissa nyanlända invandrare
 1:13,-2400000000,-5760876000,-5786534000,14,"Nystartsjobb, etableringsjobb och stöd för yrkesintroduktionsanställningar"
+2:1,50000000,50000000,50000000,14,Arbetsmiljöverket
+1:4,100000000,100000000,100000000,14,Lönebidrag och Samhall m.m.
 1:3,-2500000000,-3255000000,-2795000000,14,Kostnader för arbetsmarknadspolitiska program och insatser
 1:2,-20000000,3090000000,3090000000,14,Bidrag till arbetslöshetsförsäkring och aktivitetsstöd
-1:14,-550000000,-1084464000,-1092776000,14,Etableringsersättning till vissa nyanlända invandrare
-,100000000,200000000,300000000,15,Studieskuldsavdrag lärare i glesbygd
-1:2,740000000,740000000,910000000,15,Studiemedel
 1:7,-400000000,-400000000,-400000000,15,Studiestartsstöd
-,-240000000,-240000000,-240000000,15,Studiehjälp
-3:4,200000000,300000000,400000000,16,Rymdforskning och rymdverksamhet
-1:7,1000000000,1000000000,1000000000,16,"Maxtaxa i förskola, fritidshem och annan pedagogisk verksamhet, m.m."
+1:2,740000000,740000000,910000000,15,Studiemedel
+99:1,100000000,200000000,300000000,15,Studieskuldsavdrag lärare i glesbygd
+1:1,-240000000,-240000000,-240000000,15,Studiehjälp
 2:59,-59000000,-59000000,-59000000,16,Södertörns högskola: Utbildning på grundnivå och avancerad nivå
+3:1,-300000000,-300000000,-300000000,16,Vetenskapsrådet: Forskning och forskningsinformation
 2:29,-92000000,-92000000,-92000000,16,Malmö universitet: Utbildning grundnivå och avancerad nivå
+1:7,1000000000,1000000000,1000000000,16,"Maxtaxa i förskola, fritidshem och annan pedagogisk verksamhet, m.m."
 2:58,-22357000,-22651000,-22915000,16,Kungl. Musikhögskolan i Stockholm: Konstnärlig forskning och utbildning på forskarnivå
 2:32,-132000000,-132000000,-132000000,16,Mälardalens universitet: Forskning och utbildning på forskarnivå
 2:35,55639000,56371000,57028000,16,Stockholms konstnärliga högskola: Utbildning på grundnivå och avancerad nivå
 2:36,-55639000,-56371000,-57028000,16,Stockholms konstnärliga högskola: Konstnärlig forskning och utbildning på forskarnivå
+2:57,22357000,22651000,22915000,16,Kungl. Musikhögskolan i Stockholm: Utbildning på grundnivå och avancerad nivå
 2:53,22222000,23515000,22777000,16,Konstfack: Utbildning på grundnivå och avancerad nivå
 2:54,-22222000,-22515000,-22777000,16,Konstfack: Konstnärlig forskning och utbildning på forskarnivå
-2:55,13037000,13209000,13363000,16,Kungl. Konsthögskolan: Utbildning på grundnivå och avancerad nivå
-3:1,-300000000,-300000000,-300000000,16,Vetenskapsrådet: Forskning och forskningsinformation
-2:57,22357000,22651000,22915000,16,Kungl. Musikhögskolan i Stockholm: Utbildning på grundnivå och avancerad nivå
-99:6,250000000,250000000,250000000,16,Ökad lärartäthet o undervisningstid högre utbildning
-1:1,-55000000,-98500000,-98500000,16,Statens skolverk
-99:2,200000000,200000000,200000000,16,"Slopat karensavdrag för förskolepersonal, lärare i grundskolan och fritidspersonal"
+3:4,200000000,300000000,400000000,16,Rymdforskning och rymdverksamhet
+2:56,-13037000,-13209000,-13363000,16,Kungl. Konsthögskolan: Konstnärlig forskning och utbildning på forskarnivå
 1:13,325000000,325000000,325000000,16,Bidrag till lärarlöner
+99:2,200000000,200000000,200000000,16,"Slopat karensavdrag för förskolepersonal, lärare i grundskolan och fritidspersonal"
+1:1,-55000000,-98500000,-98500000,16,Statens skolverk
 99:12,2000000000,2000000000,2000000000,16,Ökad generell skolpeng
 99:11,300000000,300000000,300000000,16,Ökat basanslag
+1:15,-6553500000,-7658000000,-8743000000,16,Statligt stöd för stärkt likvärdighet och kunskapsutveckling
 99:5,250000000,250000000,250000000,16,Utökad personaltäthet fritids
 99:1,380000000,390000000,400000000,16,Stöd till glesbygdsskolor
-1:15,-6553500000,-7658000000,-8743000000,16,Statligt stöd för stärkt likvärdighet och kunskapsutveckling
-99:3,125000000,125000000,125000000,16,Utökning SYV grundskola och gymnasieskola
-1:19,200000000,200000000,200000000,16,Statligt stöd till yrkeshögskoleutbildning
 99:4,800000000,750000000,700000000,16,Jourklasser
+1:19,200000000,200000000,200000000,16,Statligt stöd till yrkeshögskoleutbildning
+99:6,250000000,250000000,250000000,16,Ökad lärartäthet o undervisningstid högre utbildning
 99:7,460000000,470000000,480000000,16,Avskaffat produktivitetsbidrag
+2:55,13037000,13209000,13363000,16,Kungl. Konsthögskolan: Utbildning på grundnivå och avancerad nivå
 99:8,100000000,100000000,100000000,16,Strategiskt forskningsanslag kärnenergiforskning
-2:56,-13037000,-13209000,-13363000,16,Kungl. Konsthögskolan: Konstnärlig forskning och utbildning på forskarnivå
 99:9,850000000,850000000,850000000,16,Skolhälsovård
 1:2,200000000,250000000,300000000,16,Statens skolinspektion
-99:6,35000000,35000000,35000000,17,Öppna museer
-99:7,300000000,300000000,300000000,17,Stimulansbidrag kulturmiljökompetens
-99:8,100000000,100000000,100000000,17,Stimulansbidrag kultur i vården
-99:9,100000000,100000000,100000000,17,Kulturlotsar och Sverigecenter
-99:5,50000000,50000000,50000000,17,Skapande äldreomsorg
+99:3,125000000,125000000,125000000,16,Utökning SYV grundskola och gymnasieskola
+99:6,150000000,150000000,150000000,17,Öppna museer
+99:7,50000000,50000000,50000000,17,Stimulansbidrag kulturmiljökompetens
+99:8,35000000,35000000,35000000,17,Stimulansbidrag kultur i vården
+99:5,35000000,35000000,35000000,17,Skapande äldreomsorg
 3:1,-30000000,-30000000,-30000000,17,Bidrag till litteratur och kulturtidskrifter
+99:9,300000000,300000000,300000000,17,Kulturlotsar och Sverigecenter
+99:4,100000000,100000000,100000000,17,Kulturarvsfond
 9:1,3000000,3000000,3000000,17,Myndigheten för stöd till trossamfund
 6:1,31000000,80000000,56000000,17,Riksarkivet
-99:2,100000000,100000000,100000000,17,Kulturreservat
-99:3,35000000,35000000,35000000,17,Kulturarvs-ROT]
+99:2,40000000,40000000,40000000,17,Kulturreservat
 5:2,-135000000,-135000000,-135000000,17,Ersättningar och bidrag till konstnärer
 3:3,11000000,11000000,11000000,17,Institutet för språk och folkminnen
-99:1,160000000,160000000,160000000,17,Statligt stöd till ökad estetisk hållbarhet
+99:11,100000000,100000000,100000000,17,LOA-fond
+99:10,100000000,100000000,100000000,17,Bibliotekssatsning
+99:1,250000000,250000000,250000000,17,Statligt stöd till ökad estetisk hållbarhet
 8:3,12000000,12000000,12000000,17,Bidrag till vissa museer
 8:2,110000000,160000000,160000000,17,Centrala museer: Stiftelser
 8:1,-96000000,-96000000,-96000000,17,Centrala museer: Myndigheter
 7:3,250000000,250000000,250000000,17,Kyrkoantikvarisk ersättning
-7:2,5000000,5000000,5000000,17,Bidrag till kulturmiljövård
 4:3,5000000,5000000,5000000,17,Nämnden för hemslöjdsfrågor
 4:4,-6000000,-6000000,-6000000,17,Bidrag till bild- och formområdet
+7:2,5000000,5000000,5000000,17,Bidrag till kulturmiljövård
 7:1,50000000,50000000,50000000,17,Riksantikvarieämbetet
-99:4,150000000,150000000,150000000,17,Kulturarvsfond
+99:3,160000000,160000000,160000000,17,Kulturarvs-ROT]
 10:1,-155000000,-100000000,-100000000,17,Filmstöd
 9:2,-25000000,-25000000,-25000000,17,Stöd till trossamfund
-15:1,40000000,40000000,40000000,17,Spelinspektionen
-1:1,5000000,1000000,1000000,17,Statens kulturråd
-1:2,200000000,200000000,200000000,17,"Bidrag till allmän kulturverksamhet, utveckling samt internationellt kulturutbyte och samarbete"
-1:4,20000000,20000000,20000000,17,Forsknings- och utvecklingsinsatser inom kulturområdet
-14:3,250000000,250000000,250000000,17,Särskilda insatser inom folkbildningen
-14:1,6000000,6000000,6000000,17,Bidrag till folkbildningen
-13:4,-60000000,0,0,17,Bidrag till riksdagspartiers kvinnoorganisationer
-1:5,15000000,15000000,15000000,17,Stöd till icke-statliga kulturlokaler
-13:2,-15000000,-15000000,-15000000,17,Bidrag till allmänna samlingslokaler
-,5000000,5000000,5000000,17,Stöd till idrotten
-13:3,-1175100000,-683100000,-683100000,17,Stöd till friluftsorganisationer
 2:3,2000000,2000000,2000000,17,Statens musikverk
+1:2,200000000,200000000,200000000,17,"Bidrag till allmän kulturverksamhet, utveckling samt internationellt kulturutbyte och samarbete"
+1:1,5000000,1000000,1000000,17,Statens kulturråd
+15:1,6000000,6000000,6000000,17,Spelinspektionen
+1:5,15000000,15000000,15000000,17,Stöd till icke-statliga kulturlokaler
+14:1,-1175100000,-683100000,-683100000,17,Bidrag till folkbildningen
+13:4,-15000000,-15000000,-15000000,17,Bidrag till riksdagspartiers kvinnoorganisationer
+14:3,-60000000,0,0,17,Särskilda insatser inom folkbildningen
+13:3,5000000,5000000,5000000,17,Stöd till friluftsorganisationer
 12:2,-67000000,-17000000,-17000000,17,Bidrag till nationell och internationell ungdomsverksamhet
 2:2,-16000000,-16000000,-16000000,17,"Bidrag till vissa teater-, dans- och musikändamål"
 12:1,7000000,7000000,7000000,17,Myndigheten för ungdoms- och civilsamhällesfrågor
 11:4,-15000000,-17000000,-24663000,17,Statens medieråd
 2:1,-13703000,-13703000,-13703000,17,Bidrag till vissa scenkonstinstitutioner
+1:4,20000000,20000000,20000000,17,Forsknings- och utvecklingsinsatser inom kulturområdet
+99:3,34000000,34000000,34000000,18,Bidrag till åtgärder mot radon i bostäder
+99:2,750000000,750000000,750000000,18,Säkra och trygga utsatta områden
 99:1,129000000,129000000,129000000,18,Stöd till lokal konsumentvägledning
 1:4,-2000000,-8000000,-8000000,18,Boverket
 1:8,-4050000000,-4900000000,-5000000000,18,Investeringsstöd för anordnande av hyresbostäder och bostäder för studerande
-2:1,-3200000,-3200000,-3200000,18,Konsumentverket
-99:2,750000000,750000000,750000000,18,Säkra och trygga utsatta områden
 1:7,-1565000000,-80000000,-1130000000,18,Energieffektivisering av flerbostadshus
-99:3,34000000,34000000,34000000,18,Bidrag till åtgärder mot radon i bostäder
-1:17,-1331000000,-192000000,-182000000,20,Klimatpremier
-1:15,-60000000,-70000000,-77000000,20,Havs- och vattenmyndigheten
-1:18,-200000000,0,0,20,Stöd för gröna och trygga samhällen
-99:1,350000000,350000000,350000000,20,Laddinfrastruktur
-1:11,50000000,50000000,50000000,20,Åtgärder för havs- och vattenmiljö
-99:2,20000000,20000000,20000000,20,Förädlingsprojekt alm och ask
+2:1,-3200000,-3200000,-3200000,18,Konsumentverket
 1:16,-2755000000,-2655000000,-3655000000,20,Klimatinvesteringar
-99:3,10000000,20000000,20000000,20,Centrum för genteknik i naturens tjänst
-1:22,-100000000,-100000000,-100000000,20,Kompetenslyft för klimatomställningen
-1:1,-37000000,-37000000,-37000000,20,Naturvårdsverket
+1:15,-60000000,-70000000,-77000000,20,Havs- och vattenmyndigheten
+99:2,20000000,20000000,20000000,20,Förädlingsprojekt alm och ask
 1:12,50000000,50000000,50000000,20,Insatser för internationella klimatinvesteringar
-1:4,30000000,30000000,30000000,20,Sanering och återställning av förorenade områden
-1:8,-3510000000,-2970000000,-2970000000,20,Klimatbonus
-2:1,50000000,50000000,50000000,20,"Forskningsrådet för miljö, areella näringar och samhällsbyggande"
-2:2,150000000,150000000,150000000,20,"Forskningsrådet för miljö, areella näringar och samhällsbyggande"
-1:21,250000000,250000000,250000000,20,Driftsstöd för bio-CCS
+1:11,50000000,50000000,50000000,20,Åtgärder för havs- och vattenmiljö
+1:17,-1331000000,-192000000,-182000000,20,Klimatpremier
+1:18,-200000000,0,0,20,Stöd för gröna och trygga samhällen
+99:3,10000000,20000000,20000000,20,Centrum för genteknik i naturens tjänst
+99:1,350000000,350000000,350000000,20,Laddinfrastruktur
 1:14,-2005000000,-2005000000,-2005000000,20,Skydd av värdefull natur
+2:2,150000000,150000000,150000000,20,"Forskningsrådet för miljö, areella näringar och samhällsbyggande"
+2:1,50000000,50000000,50000000,20,"Forskningsrådet för miljö, areella näringar och samhällsbyggande"
+1:21,250000000,250000000,250000000,20,Driftsstöd för bio-CCS
+1:22,-100000000,-100000000,-100000000,20,Kompetenslyft för klimatomställningen
+1:8,-3510000000,-2970000000,-2970000000,20,Klimatbonus
+1:1,-37000000,-37000000,-37000000,20,Naturvårdsverket
+1:4,30000000,30000000,30000000,20,Sanering och återställning av förorenade områden
 1:10,-140000000,-155000000,-145000000,21,Lokal och regional kapacitetsutveckling för klimat- och energiomställning
+1:7,-578000000,0,0,21,Energiteknik
+1:3,-25000000,-25000000,-25000000,21,Insatser för förnybar elproduktion
 1:1,-20000000,-20000000,-20000000,21,Statens energimyndighet
+1:4,50000000,50000000,50000000,21,Energiforskning
 1:9,1000000,1000000,1000000,21,Avgifter till internationella organisationer
 99:1,150000000,150000000,150000000,21,Forskningsreaktor]
-1:7,-578000000,0,0,21,Energiteknik
-1:4,50000000,50000000,50000000,21,Energiforskning
-1:3,-25000000,-25000000,-25000000,21,Insatser för förnybar elproduktion
+99:4,110000000,0,0,22,Inköp av två brandflygplan
+99:3,50000000,50000000,50000000,22,Bidrag till underhåll av enskilda vägar
+1:1,500000000,500000000,500000000,22,Utveckling av statens transportinfrastruktur
+99:2,250000000,250000000,250000000,22,Näringslivspott till stöd för väganslutningar till industrier
+1:15,500000000,500000000,500000000,22,Sjöfartsstöd
+1:16,-45000000,-95000000,-95000000,22,Internationell tågtrafik
+2:5,50000000,50000000,30000000,22,Driftsäker och tillgänglig elektronisk kommunikation
+1:6,250000000,250000000,250000000,22,Ersättning avseende icke statliga flygplatser
+99:1,50000000,50000000,50000000,22,Näringslivspott till stöd för järnvägsanslutningar till industrier
+1:2,500000000,500000000,500000000,22,Vidmakthållande av statens transportinfrastruktur
 99:10,30000000,30000000,30000000,23,Kontrollfunktion livsmedelsbedrägerier
-99:9,900000000,900000000,900000000,23,Ytterligare Nationell medfinansiering för uppfyllande av Livmedelsstrategin
-1:8,48000000,48000000,48000000,23,Statens jordbruksverk
-99:8,5000000,5000000,5000000,23,Uppföljning biologiska bekämpningsmedels spridning
-99:7,10000000,10000000,10000000,23,Projekt grogrund
-1:5,22000000,20000000,20000000,23,Djurhälsovård och djurskyddsfrämjande åtgärder
 99:6,20000000,20000000,20000000,23,Pilotprojekt för avbytartjänst inom jordbruket
+99:5,10000000,10000000,10000000,23,Miljöprövningsdelegation för tillståndsprövningar
 99:4,5000000,5000000,5000000,23,Sekretariat för synkronisering av forskning och behov
 1:24,50000000,50000000,50000000,23,"Forskningsrådet för miljö, areella näringar och samhällsbyggande: Forskning och samfinansierad forskning"
-99:5,10000000,10000000,10000000,23,Miljöprövningsdelegation för tillståndsprövningar
 1:23,50000000,50000000,50000000,23,Sveriges Lantbruksuniversitet
-1:2,50000000,50000000,50000000,23,Insatser för skogsbruket
-99:3,2000000,14000000,14000000,23,Åkermarksinventering
 1:22,10000000,10000000,10000000,23,Främjande av rennäringen m.m.
+99:7,10000000,10000000,10000000,23,Projekt grogrund
+99:9,900000000,900000000,900000000,23,Ytterligare Nationell medfinansiering för uppfyllande av Livmedelsstrategin
+1:2,50000000,50000000,50000000,23,Insatser för skogsbruket
 99:2,10000000,10000000,10000000,23,Växtförädling
-1:21,11000000,11000000,11000000,24,Patent- och registreringsverket
-1:4,36000000,36000000,31000000,24,Tillväxtverket
-1:2,-1000000000,-1500000000,-2000000000,24,Verket för innovationssystem: Forskning och utveckling
-1:5,110000000,116000000,120000000,24,Näringslivsutveckling
-1:13,5000000,5000000,5000000,24,Konkurrensverket
-1:6,3000000,4000000,4000000,24,Myndigheten för tillväxtpolitiska utvärderingar och analyser
-1:1,-72000000,-108000000,-144000000,24,Verket för innovationssystem
-1:7,100000000,100000000,100000000,24,Turistfrämjande
-1:11,20000000,21000000,15000000,24,Bolagsverket
-1:12,1000000,1000000,1000000,24,Bidrag till Kungl. Ingenjörsvetenskapsakademien
+99:8,5000000,5000000,5000000,23,Uppföljning biologiska bekämpningsmedels spridning
+1:5,22000000,20000000,20000000,23,Djurhälsovård och djurskyddsfrämjande åtgärder
+99:3,2000000,14000000,14000000,23,Åkermarksinventering
+1:8,48000000,48000000,48000000,23,Statens jordbruksverk
 1:8,132000000,132000000,132000000,24,Sveriges geologiska undersökning
-99:1,100000000,100000000,100000000,24,Starta eget-bidrag för yrkesverksamma
 1:9,1000000,1000000,1000000,24,Geovetenskaplig forskning
 2:2,1000000,1000000,1000000,24,Kommerskollegium
+1:4,36000000,36000000,31000000,24,Tillväxtverket
+1:1,-72000000,-108000000,-144000000,24,Verket för innovationssystem
+1:11,20000000,21000000,15000000,24,Bolagsverket
+1:7,100000000,100000000,100000000,24,Turistfrämjande
+1:13,5000000,5000000,5000000,24,Konkurrensverket
+99:1,100000000,100000000,100000000,24,Starta eget-bidrag för yrkesverksamma
+1:6,3000000,4000000,4000000,24,Myndigheten för tillväxtpolitiska utvärderingar och analyser
+1:2,-1000000000,-1500000000,-2000000000,24,Verket för innovationssystem: Forskning och utveckling
+1:21,11000000,11000000,11000000,24,Patent- och registreringsverket
+1:5,110000000,116000000,120000000,24,Näringslivsutveckling
+1:12,1000000,1000000,1000000,24,Bidrag till Kungl. Ingenjörsvetenskapsakademien
 1:1,3000000000,3000000000,3000000000,25,Kommunalekonomisk utjämning
